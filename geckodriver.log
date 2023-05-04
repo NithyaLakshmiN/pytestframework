@@ -1123,3 +1123,977 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 DevTools listening on ws://127.0.0.1:62034/devtools/browser/a1939359-ac76-4409-8722-b4e1a5b12d85
 1672994016392	Marionette	INFO	Stopped listening on port 62044
 JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+1673074987195	geckodriver	INFO	Listening on 127.0.0.1:63381
+1673074990264	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63382" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofiledCX0DT"
+1673074990756	Marionette	INFO	Marionette enabled
+1673074990763	Marionette	INFO	Listening on port 63394
+Read port: 63394
+WebDriver BiDi listening on ws://127.0.0.1:63382
+1673074990944	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofiledCX0DT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63382/devtools/browser/aa73eace-d4f3-443e-83da-e4eca01d2a2c
+1673076911333	Marionette	INFO	Stopped listening on port 63394
+1674478804130	geckodriver	INFO	Listening on 127.0.0.1:52265
+1674478807189	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52266" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofilePIefYz"
+1675065329589	geckodriver	INFO	Listening on 127.0.0.1:62046
+1675065332674	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62047" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileITRtmC"
+1675065333134	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675065333139	Marionette	INFO	Listening on port 62057
+Read port: 62057
+WebDriver BiDi listening on ws://127.0.0.1:62047
+1675065333297	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileITRtmC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62047/devtools/browser/0172962a-207b-47b6-8692-59ca263d2e44
+1675065336819	Marionette	INFO	Stopped listening on port 62057
+Dynamically enable window occlusion 1
+1675065424229	geckodriver	INFO	Listening on 127.0.0.1:62206
+1675065427268	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62207" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileFiCFmH"
+1675065427553	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675065427558	Marionette	INFO	Listening on port 62215
+Read port: 62215
+WebDriver BiDi listening on ws://127.0.0.1:62207
+1675065427717	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileFiCFmH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62207/devtools/browser/41c4b217-82d6-4a99-9c54-2591e8c6a4d0
+1675065432601	Marionette	INFO	Stopped listening on port 62215
+Dynamically enable window occlusion 1
+1683124363626	geckodriver	INFO	Listening on 127.0.0.1:51605
+1683124366681	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51606" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileSyiMoi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683124366961	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683124366965	Marionette	INFO	Listening on port 51616
+Read port: 51616
+WebDriver BiDi listening on ws://127.0.0.1:51606
+1683124367089	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileSyiMoi\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:51606/devtools/browser/04447ac8-fd4e-49be-ae2f-7be7d01d00e3
+1683124390362	Marionette	INFO	Stopped listening on port 51616
+Dynamically enable window occlusion 1
+1683124686897	geckodriver	INFO	Listening on 127.0.0.1:51837
+1683124689968	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51838" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileVr2qv9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683124690237	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683124690241	Marionette	INFO	Listening on port 51846
+Read port: 51846
+WebDriver BiDi listening on ws://127.0.0.1:51838
+1683124690363	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileVr2qv9\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:51838/devtools/browser/1b0b7205-7b49-4811-8f63-31abce87dbf5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+1683124711787	Marionette	INFO	Stopped listening on port 51846
+Dynamically enable window occlusion 1
+1683124802306	geckodriver	INFO	Listening on 127.0.0.1:51952
+1683124805366	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51953" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofilesEfvab"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683124805653	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683124805657	Marionette	INFO	Listening on port 51962
+Read port: 51962
+WebDriver BiDi listening on ws://127.0.0.1:51953
+1683124805794	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofilesEfvab\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:51953/devtools/browser/5dbf5ac7-3520-4889-afac-8b65c890a86c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+1683127526128	Marionette	INFO	Stopped listening on port 51962
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52090" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileZvvThS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683124979817	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683124979821	Marionette	INFO	Listening on port 52098
+Read port: 52098
+WebDriver BiDi listening on ws://127.0.0.1:52090
+1683124979940	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileZvvThS\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:52090/devtools/browser/15c09433-18be-44fc-b0d1-b485ce89a5cb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+1683127525364	Marionette	INFO	Stopped listening on port 52098
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52251" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileWualCE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683125186448	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683125186451	Marionette	INFO	Listening on port 52259
+Read port: 52259
+WebDriver BiDi listening on ws://127.0.0.1:52251
+1683125186571	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileWualCE\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:52251/devtools/browser/7bfdbc61-5521-4af7-ae8f-85cdeededcf2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+1683127524621	Marionette	INFO	Stopped listening on port 52259
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52362" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofilerc4Czo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683125277310	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683125277314	Marionette	INFO	Listening on port 52370
+Read port: 52370
+WebDriver BiDi listening on ws://127.0.0.1:52362
+1683125277438	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofilerc4Czo\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:52362/devtools/browser/3a18375e-c1f1-4c21-a510-49e844c5ef2b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+1683125323145	Marionette	INFO	Stopped listening on port 52370
+Dynamically enable window occlusion 1
+1683125351971	geckodriver	INFO	Listening on 127.0.0.1:52452
+1683125355057	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52453" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileplj7Qi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683125355348	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683125355352	Marionette	INFO	Listening on port 52462
+Read port: 52462
+WebDriver BiDi listening on ws://127.0.0.1:52453
+1683125355497	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileplj7Qi\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:52453/devtools/browser/799cd71f-669c-4787-b2a6-24eaa368a8a2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+1683125390783	Marionette	INFO	Stopped listening on port 52462
+Dynamically enable window occlusion 1
+1683125485204	geckodriver	INFO	Listening on 127.0.0.1:52590
+1683125488270	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52591" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileSk7MOS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683125488544	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683125488548	Marionette	INFO	Listening on port 52600
+Read port: 52600
+WebDriver BiDi listening on ws://127.0.0.1:52591
+1683125488670	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileSk7MOS\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:52591/devtools/browser/76cf1558-408d-4a4b-9549-309f15d10c67
+1683125495602	Marionette	INFO	Stopped listening on port 52600
+Dynamically enable window occlusion 1
+console.error: (new Error("IndexedDB: main/url-classifier-skip-urls list() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 18))
+1683125889968	geckodriver	INFO	Listening on 127.0.0.1:53009
+1683125893003	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53010" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileD0B75d"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683125893278	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683125893283	Marionette	INFO	Listening on port 53019
+Read port: 53019
+WebDriver BiDi listening on ws://127.0.0.1:53010
+1683125893406	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileD0B75d\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:53010/devtools/browser/8e8b615f-c0c7-43b8-9503-84eec62a6759
+1683125897874	Marionette	INFO	Stopped listening on port 53019
+Dynamically enable window occlusion 1
+1683125915788	geckodriver	INFO	Listening on 127.0.0.1:53056
+1683125918853	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53057" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileOUU5rq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683125919124	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683125919128	Marionette	INFO	Listening on port 53066
+Read port: 53066
+WebDriver BiDi listening on ws://127.0.0.1:53057
+1683125919242	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileOUU5rq\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:53057/devtools/browser/8d97bc0f-7fc6-43d4-ad92-9450324c5f2f
+1683125924243	Marionette	INFO	Stopped listening on port 53066
+Dynamically enable window occlusion 1
+console.error: (new AbortError("IndexedDB: main/url-classifier-skip-urls list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+1683125990731	geckodriver	INFO	Listening on 127.0.0.1:53134
+1683125993790	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53135" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofile6UUUcU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683125994061	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683125994065	Marionette	INFO	Listening on port 53144
+Read port: 53144
+WebDriver BiDi listening on ws://127.0.0.1:53135
+1683125994191	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofile6UUUcU\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:53135/devtools/browser/efc781c0-90a5-45f3-9496-db2ee8a1889e
+1683125998379	Marionette	INFO	Stopped listening on port 53144
+Dynamically enable window occlusion 1
+console.error: (new AbortError("IndexedDB: main/url-classifier-skip-urls list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+1683126107832	geckodriver	INFO	Listening on 127.0.0.1:53220
+1683126110904	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53221" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofilesibZ2T"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683126111178	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683126111182	Marionette	INFO	Listening on port 53230
+Read port: 53230
+WebDriver BiDi listening on ws://127.0.0.1:53221
+1683126111308	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofilesibZ2T\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:53221/devtools/browser/edb1697b-b25a-4427-936e-d427b7c00cbc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+1683126146781	Marionette	INFO	Stopped listening on port 53230
+Dynamically enable window occlusion 1
+1683126538116	geckodriver	INFO	Listening on 127.0.0.1:53617
+1683126541136	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53618" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileb9rZU2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683126541484	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683126541488	Marionette	INFO	Listening on port 53631
+WebDriver BiDi listening on ws://127.0.0.1:53618
+Read port: 53631
+1683126541705	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileb9rZU2\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:53618/devtools/browser/c0e2c50d-a3da-4c9e-b5ef-f06f3b27f17f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+1683126576925	Marionette	INFO	Stopped listening on port 53631
+Dynamically enable window occlusion 1
+1683126577846	geckodriver	INFO	Listening on 127.0.0.1:53695
+1683126580915	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53696" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofile1RamAb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683126581179	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683126581183	Marionette	INFO	Listening on port 53704
+Read port: 53704
+WebDriver BiDi listening on ws://127.0.0.1:53696
+1683126581301	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofile1RamAb\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:53696/devtools/browser/b6250b68-8407-4691-b3c7-26308530806e
+1683126605922	Marionette	INFO	Stopped listening on port 53704
+Dynamically enable window occlusion 1
+1683126709844	geckodriver	INFO	Listening on 127.0.0.1:53805
+1683126712905	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53806" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofilequxJAj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683126713176	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683126713180	Marionette	INFO	Listening on port 53815
+Read port: 53815
+WebDriver BiDi listening on ws://127.0.0.1:53806
+1683126713301	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofilequxJAj\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:53806/devtools/browser/087239b6-25da-4bca-9592-c77a59047feb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+1683126747812	Marionette	INFO	Stopped listening on port 53815
+Dynamically enable window occlusion 1
+1683126748727	geckodriver	INFO	Listening on 127.0.0.1:53871
+1683126751770	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53872" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofile2HPGs8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683126752042	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683126752046	Marionette	INFO	Listening on port 53881
+Read port: 53881
+WebDriver BiDi listening on ws://127.0.0.1:53872
+1683126752168	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofile2HPGs8\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:53872/devtools/browser/03e731c5-41a0-41f0-b6a9-5b76c3182d44
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+1683126771040	Marionette	INFO	Stopped listening on port 53881
+Dynamically enable window occlusion 1
+1683126814145	geckodriver	INFO	Listening on 127.0.0.1:53963
+1683126817221	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53964" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileUGPIDb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683126817495	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683126817499	Marionette	INFO	Listening on port 53972
+Read port: 53972
+WebDriver BiDi listening on ws://127.0.0.1:53964
+1683126817623	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileUGPIDb\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:53964/devtools/browser/57461b52-a792-42d8-a918-423ad54d0a40
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+1683126852821	Marionette	INFO	Stopped listening on port 53972
+Dynamically enable window occlusion 1
+1683126853751	geckodriver	INFO	Listening on 127.0.0.1:54030
+1683126856798	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54031" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileJx2QFE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683126857069	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683126857074	Marionette	INFO	Listening on port 54040
+Read port: 54040
+WebDriver BiDi listening on ws://127.0.0.1:54031
+1683126857194	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileJx2QFE\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:54031/devtools/browser/abe4697b-6a65-4207-951f-9bd2ca4a1db8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+1683126974154	Marionette	INFO	Stopped listening on port 54040
+Dynamically enable window occlusion 1
+1683127226931	geckodriver	INFO	Listening on 127.0.0.1:54330
+1683127229973	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54331" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofilePoI5B9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683127230239	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683127230243	Marionette	INFO	Listening on port 54339
+Read port: 54339
+WebDriver BiDi listening on ws://127.0.0.1:54331
+1683127230364	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofilePoI5B9\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:54331/devtools/browser/91311144-e1dd-4457-a0df-eeff58749d81
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+1683127266014	Marionette	INFO	Stopped listening on port 54339
+Dynamically enable window occlusion 1
+1683127266924	geckodriver	INFO	Listening on 127.0.0.1:54400
+1683127269980	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54401" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileNzFVtz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683127270250	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683127270254	Marionette	INFO	Listening on port 54410
+Read port: 54410
+WebDriver BiDi listening on ws://127.0.0.1:54401
+1683127270376	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileNzFVtz\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:54401/devtools/browser/8eb58deb-8539-4b04-a9cf-6a24b865dc65
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+1683127453108	Marionette	INFO	Stopped listening on port 54410
+Dynamically enable window occlusion 1
+1683128119880	geckodriver	INFO	Listening on 127.0.0.1:54787
+1683128122929	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54788" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofiled2inzk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683128123265	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683128123270	Marionette	INFO	Listening on port 54797
+WebDriver BiDi listening on ws://127.0.0.1:54788
+Read port: 54797
+1683128123447	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofiled2inzk\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:54788/devtools/browser/061dd479-4609-42b1-9f03-431eae8a8a94
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+1683128820173	Marionette	INFO	Stopped listening on port 54797
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54853" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileijnHkB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683128162852	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683128162857	Marionette	INFO	Listening on port 54865
+Read port: 54865
+WebDriver BiDi listening on ws://127.0.0.1:54853
+1683128163053	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileijnHkB\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:54853/devtools/browser/30343a07-67a2-48c6-9cd9-8794a6bcf08b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1683128261469	Marionette	INFO	Stopped listening on port 54865
+Dynamically enable window occlusion 1
+1683128333255	geckodriver	INFO	Listening on 127.0.0.1:55001
+1683128336336	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55002" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileQHzfD7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683128336607	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683128336611	Marionette	INFO	Listening on port 55011
+Read port: 55011
+WebDriver BiDi listening on ws://127.0.0.1:55002
+1683128336722	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileQHzfD7\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55002/devtools/browser/64026772-c46b-4b85-9b81-71c0f1e511a1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+1683128372202	Marionette	INFO	Stopped listening on port 55011
+Dynamically enable window occlusion 1
+1683128373107	geckodriver	INFO	Listening on 127.0.0.1:55070
+1683128376154	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55071" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofilecly9BT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683128376410	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683128376414	Marionette	INFO	Listening on port 55079
+Read port: 55079
+WebDriver BiDi listening on ws://127.0.0.1:55071
+1683128376547	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofilecly9BT\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55071/devtools/browser/5ab7551d-2d2f-43d3-893f-3507696d0aa3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+1683128434562	Marionette	INFO	Stopped listening on port 55079
+Dynamically enable window occlusion 1
+1683128474788	geckodriver	INFO	Listening on 127.0.0.1:55395
+1683128477853	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55396" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileNYHjeu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683128478110	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683128478114	Marionette	INFO	Listening on port 55404
+Read port: 55404
+WebDriver BiDi listening on ws://127.0.0.1:55396
+1683128478240	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileNYHjeu\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55396/devtools/browser/a2d4318f-657e-472e-8311-3ea038c2170c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+1683128512521	Marionette	INFO	Stopped listening on port 55404
+Dynamically enable window occlusion 1
+1683128513430	geckodriver	INFO	Listening on 127.0.0.1:55463
+1683128516495	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55464" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofilefIzzsV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683128516764	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683128516768	Marionette	INFO	Listening on port 55474
+Read port: 55474
+WebDriver BiDi listening on ws://127.0.0.1:55464
+1683128516878	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofilefIzzsV\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55464/devtools/browser/901f3664-5515-45ec-9fad-b3f68c9005e4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+1683128819416	Marionette	INFO	Stopped listening on port 55474
+Dynamically enable window occlusion 1
+1683128833294	geckodriver	INFO	Listening on 127.0.0.1:55737
+1683128836364	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55738" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofile0ICZf9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683128836632	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683128836635	Marionette	INFO	Listening on port 55747
+Read port: 55747
+WebDriver BiDi listening on ws://127.0.0.1:55738
+1683128836756	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofile0ICZf9\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55738/devtools/browser/80fb7904-4a37-4372-9760-2b5dcfffdc28
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+1683128871196	Marionette	INFO	Stopped listening on port 55747
+Dynamically enable window occlusion 1
+1683128872076	geckodriver	INFO	Listening on 127.0.0.1:55804
+1683128875149	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55805" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileAapa09"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683128875412	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683128875416	Marionette	INFO	Listening on port 55814
+Read port: 55814
+WebDriver BiDi listening on ws://127.0.0.1:55805
+1683128875534	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileAapa09\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55805/devtools/browser/2b8dabf6-063b-46cc-ace8-65f194593685
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+1683128935388	Marionette	INFO	Stopped listening on port 55814
+Dynamically enable window occlusion 1
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_untrustedmodules_ping
+1683128974074	geckodriver	INFO	Listening on 127.0.0.1:55906
+1683128977121	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55907" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofile3oU8Q8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683128977394	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683128977398	Marionette	INFO	Listening on port 55915
+Read port: 55915
+WebDriver BiDi listening on ws://127.0.0.1:55907
+1683128977511	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofile3oU8Q8\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55907/devtools/browser/05cbdae2-6ef7-4bca-b2f0-75d14a918307
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+1683129011836	Marionette	INFO	Stopped listening on port 55915
+Dynamically enable window occlusion 1
+1683129012724	geckodriver	INFO	Listening on 127.0.0.1:55976
+1683129015805	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55977" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofilelvfgOw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683129016068	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683129016072	Marionette	INFO	Listening on port 55985
+Read port: 55985
+WebDriver BiDi listening on ws://127.0.0.1:55977
+1683129016203	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofilelvfgOw\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55977/devtools/browser/76c15d4a-9eb7-4969-8019-bca3e6f755b4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+1683129074276	Marionette	INFO	Stopped listening on port 55985
+Dynamically enable window occlusion 1
+1683129170964	geckodriver	INFO	Listening on 127.0.0.1:56108
+1683129174030	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56109" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileRNvSlK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683129174298	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683129174302	Marionette	INFO	Listening on port 56117
+Read port: 56117
+WebDriver BiDi listening on ws://127.0.0.1:56109
+1683129174415	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileRNvSlK\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56109/devtools/browser/d985dbd0-a761-41e1-a8a5-f07c25514c35
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+1683129209416	Marionette	INFO	Stopped listening on port 56117
+Dynamically enable window occlusion 1
+1683129210302	geckodriver	INFO	Listening on 127.0.0.1:56174
+1683129213348	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56175" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileW5A3u9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683129213608	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683129213612	Marionette	INFO	Listening on port 56183
+Read port: 56183
+WebDriver BiDi listening on ws://127.0.0.1:56175
+1683129213733	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileW5A3u9\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56175/devtools/browser/80c97da2-794b-49da-8a2f-a3423cd6c0e2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+1683129353814	geckodriver	INFO	Listening on 127.0.0.1:56301
+1683129356869	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56302" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileEnBsmp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683129357136	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683129357140	Marionette	INFO	Listening on port 56310
+Read port: 56310
+WebDriver BiDi listening on ws://127.0.0.1:56302
+1683129357266	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileEnBsmp\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56302/devtools/browser/97318f69-ccea-4494-8e59-ea0cfebd9d23
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+1683129391427	Marionette	INFO	Stopped listening on port 56310
+Dynamically enable window occlusion 1
+1683129392327	geckodriver	INFO	Listening on 127.0.0.1:56367
+1683129395377	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56368" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileSED8FX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683129395635	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683129395639	Marionette	INFO	Listening on port 56377
+Read port: 56377
+WebDriver BiDi listening on ws://127.0.0.1:56368
+1683129395765	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileSED8FX\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56368/devtools/browser/2e179c13-c6b7-4a18-b5e8-70a992bd2d02
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+1683129435041	Marionette	INFO	Stopped listening on port 56377
+Dynamically enable window occlusion 1
+1683129487434	geckodriver	INFO	Listening on 127.0.0.1:56486
+1683129490521	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56587" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofile3tlpEt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683129490783	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683129490786	Marionette	INFO	Listening on port 56596
+Read port: 56596
+WebDriver BiDi listening on ws://127.0.0.1:56587
+1683129490916	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofile3tlpEt\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56587/devtools/browser/dbf7ea5f-b7db-4202-ad64-5b17c13835e6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+1683129525934	Marionette	INFO	Stopped listening on port 56596
+Dynamically enable window occlusion 1
+1683129526822	geckodriver	INFO	Listening on 127.0.0.1:56654
+1683129529903	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56655" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofile9miOjr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683129530163	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683129530167	Marionette	INFO	Listening on port 56664
+Read port: 56664
+WebDriver BiDi listening on ws://127.0.0.1:56655
+1683129530280	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofile9miOjr\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56655/devtools/browser/f22eea4f-3416-48b3-976d-569e72da42ce
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+1683170568044	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1683171394842	geckodriver	INFO	Listening on 127.0.0.1:58708
+1683171397977	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58709" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofile4qet7S"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683171398425	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683171398430	Marionette	INFO	Listening on port 58716
+Read port: 58716
+WebDriver BiDi listening on ws://127.0.0.1:58709
+1683171398584	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofile4qet7S\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:58709/devtools/browser/9efdd718-7b60-43ff-a1f9-56ac24fb705d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+1683171434551	Marionette	INFO	Stopped listening on port 58716
+Dynamically enable window occlusion 1
+1683171436028	geckodriver	INFO	Listening on 127.0.0.1:58758
+1683171439085	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58759" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileKE2oUr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683171439469	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683171439475	Marionette	INFO	Listening on port 58766
+Read port: 58766
+WebDriver BiDi listening on ws://127.0.0.1:58759
+1683171439603	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileKE2oUr\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:58759/devtools/browser/42f6a21e-7b0e-483f-be58-2ab26dce963e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\Nithya\AppData\Local\Temp\rust_mozprofileKE2oUr\bookmarkbackups\bookmarks-2023-05-04.jsonlz4) because it does not exist
+\Temp\\rust_mozprofileHwpTWE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683171782976	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683171782980	Marionette	INFO	Listening on port 58843
+WebDriver BiDi listening on ws://127.0.0.1:58836
+Read port: 58843
+1683171783197	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileHwpTWE\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:58836/devtools/browser/bbb3af74-3330-40d6-b81e-c533f0f9af55
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+1683171818425	Marionette	INFO	Stopped listening on port 58843
+Dynamically enable window occlusion 1
+1683171819865	geckodriver	INFO	Listening on 127.0.0.1:58888
+1683171822910	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58889" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofilenpoq73"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683171823272	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683171823278	Marionette	INFO	Listening on port 58896
+Read port: 58896
+WebDriver BiDi listening on ws://127.0.0.1:58889
+1683171823428	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofilenpoq73\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:58889/devtools/browser/0d955abd-fbf2-477d-be72-b9c6a4730d80
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+1683171858215	Marionette	INFO	Stopped listening on port 58896
+Dynamically enable window occlusion 1
+1683172681596	geckodriver	INFO	Listening on 127.0.0.1:59408
+1683172684650	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59409" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileMVQj7x"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683172684983	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683172684988	Marionette	INFO	Listening on port 59418
+Read port: 59418
+WebDriver BiDi listening on ws://127.0.0.1:59409
+1683172685140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileMVQj7x\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:59409/devtools/browser/2c14dfd7-d9cd-42de-9909-485162dc2581
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+1683172721344	Marionette	INFO	Stopped listening on port 59418
+Dynamically enable window occlusion 1
+1683172722790	geckodriver	INFO	Listening on 127.0.0.1:59475
+1683172725840	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59476" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofiletubuzt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683172726217	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683172726221	Marionette	INFO	Listening on port 59485
+Read port: 59485
+WebDriver BiDi listening on ws://127.0.0.1:59476
+1683172726355	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofiletubuzt\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:59476/devtools/browser/0ab7ebfc-0c4c-4bd9-a05e-562b19336c40
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+1683172765293	Marionette	INFO	Stopped listening on port 59485
+Dynamically enable window occlusion 1
+1683173088347	geckodriver	INFO	Listening on 127.0.0.1:55349
+1683173091437	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55350" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileuUbJGd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683173091939	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683173091943	Marionette	INFO	Listening on port 55360
+Read port: 55360
+WebDriver BiDi listening on ws://127.0.0.1:55350
+1683173092087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileuUbJGd\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55350/devtools/browser/e6fdc09f-525c-4bc6-b120-beda79f4f930
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+1683173128031	Marionette	INFO	Stopped listening on port 55360
+Dynamically enable window occlusion 1
+1683173129323	geckodriver	INFO	Listening on 127.0.0.1:55419
+1683173132386	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55420" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofile5o6kkX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683173132780	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683173132785	Marionette	INFO	Listening on port 55429
+Read port: 55429
+WebDriver BiDi listening on ws://127.0.0.1:55420
+1683173132919	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofile5o6kkX\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55420/devtools/browser/f3aff864-ee0a-492e-a9d7-e4473585e8be
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+1683173172713	Marionette	INFO	Stopped listening on port 55429
+Dynamically enable window occlusion 1
+1683173364852	geckodriver	INFO	Listening on 127.0.0.1:55649
+1683173367932	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55650" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileZxw88h"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683173368272	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683173368277	Marionette	INFO	Listening on port 55658
+Read port: 55658
+WebDriver BiDi listening on ws://127.0.0.1:55650
+1683173368441	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileZxw88h\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55650/devtools/browser/6bcc5d52-33f1-431f-9407-f5316d17257e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+1683173403177	Marionette	INFO	Stopped listening on port 55658
+Dynamically enable window occlusion 1
+1683173404630	geckodriver	INFO	Listening on 127.0.0.1:55715
+1683173407687	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55716" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileQGkUMM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683173408099	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683173408103	Marionette	INFO	Listening on port 55725
+Read port: 55725
+WebDriver BiDi listening on ws://127.0.0.1:55716
+1683173408241	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileQGkUMM\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55716/devtools/browser/19cd71ae-5cea-47d4-8aaf-c4a6c27e17e5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+1683173448386	Marionette	INFO	Stopped listening on port 55725
+Dynamically enable window occlusion 1
+1683173559017	geckodriver	INFO	Listening on 127.0.0.1:55847
+1683173562077	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55848" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofile0VK17N"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683173562429	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683173562434	Marionette	INFO	Listening on port 55856
+Read port: 55856
+WebDriver BiDi listening on ws://127.0.0.1:55848
+1683173562562	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofile0VK17N\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55848/devtools/browser/f40c0df8-d271-471d-968d-d2aa5e54046c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+1683173597574	Marionette	INFO	Stopped listening on port 55856
+Dynamically enable window occlusion 1
+1683173599009	geckodriver	INFO	Listening on 127.0.0.1:55913
+1683173602064	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55914" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileYYU9WS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683173602467	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683173602472	Marionette	INFO	Listening on port 55923
+Read port: 55923
+WebDriver BiDi listening on ws://127.0.0.1:55914
+1683173602608	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileYYU9WS\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55914/devtools/browser/5fc0669e-6aae-4c2c-853a-d1611bc5ccb8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+1683173661273	Marionette	INFO	Stopped listening on port 55923
+Dynamically enable window occlusion 1
+1683178489668	geckodriver	INFO	Listening on 127.0.0.1:61890
+1683178492745	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61891" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofilesuQajP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683178493068	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683178493072	Marionette	INFO	Listening on port 61899
+Read port: 61899
+WebDriver BiDi listening on ws://127.0.0.1:61891
+1683178493198	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofilesuQajP\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:61891/devtools/browser/98297dd8-caba-4f7c-b98a-d792c189ec67
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+1683178529882	Marionette	INFO	Stopped listening on port 61899
+Dynamically enable window occlusion 1
+1683178531303	geckodriver	INFO	Listening on 127.0.0.1:61957
+1683178534356	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61958" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofile9MEVmf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683178534681	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683178534687	Marionette	INFO	Listening on port 61967
+Read port: 61967
+WebDriver BiDi listening on ws://127.0.0.1:61958
+1683178534823	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofile9MEVmf\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:61958/devtools/browser/8cf53dbb-3555-45cb-b0bb-e4e1a7d8cf56
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+1683178590077	Marionette	INFO	Stopped listening on port 61967
+Dynamically enable window occlusion 1
+1683178750248	geckodriver	INFO	Listening on 127.0.0.1:62134
+1683178753313	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62135" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileWhSrGl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683178753749	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683178753754	Marionette	INFO	Listening on port 62143
+Read port: 62143
+WebDriver BiDi listening on ws://127.0.0.1:62135
+1683178753879	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileWhSrGl\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:62135/devtools/browser/34db2b5c-c689-4618-8851-aaa257f50cf7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+1683178789887	Marionette	INFO	Stopped listening on port 62143
+Dynamically enable window occlusion 1
+1683178791180	geckodriver	INFO	Listening on 127.0.0.1:62204
+1683178794232	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62205" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileeizanW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683178794581	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683178794586	Marionette	INFO	Listening on port 62214
+Read port: 62214
+WebDriver BiDi listening on ws://127.0.0.1:62205
+1683178794729	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileeizanW\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:62205/devtools/browser/46a870a4-b623-4484-bf8b-06e22e213f01
+1683178797500	Marionette	INFO	Stopped listening on port 62214
+Dynamically enable window occlusion 1
+1683178834306	geckodriver	INFO	Listening on 127.0.0.1:62260
+1683178837363	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62261" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileWEHDB9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683178837697	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683178837703	Marionette	INFO	Listening on port 62270
+WebDriver BiDi listening on ws://127.0.0.1:62261
+Read port: 62270
+1683178837965	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileWEHDB9\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:62261/devtools/browser/2696ddc2-f251-41f9-a4f5-9f60de4bbfa8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+1683178873440	Marionette	INFO	Stopped listening on port 62270
+Dynamically enable window occlusion 1
+1683178875537	geckodriver	INFO	Listening on 127.0.0.1:62335
+1683178878604	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62336" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileXJdARr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683178879002	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683178879007	Marionette	INFO	Listening on port 62344
+Read port: 62344
+WebDriver BiDi listening on ws://127.0.0.1:62336
+1683178879182	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileXJdARr\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:62336/devtools/browser/ce66d6c0-7382-4cc4-b226-2e3c26908fa1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
