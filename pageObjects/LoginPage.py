@@ -14,7 +14,8 @@ class Loginpage:
     button_next_css =".firebaseui-id-submit"
     textbox_password_css = "#ui-sign-in-password-input"
     button_signin_css = ".firebaseui-id-submit"
-    link_logout_css = "span[class='b-avatar avatar-icon badge-primary rounded-circle'] span[class='b-avatar-text'] span"
+    link_Account_xpath = "//span[contains(text(),'NT')]"
+    xpath_logout ="//ul[@id='__BVID__38__BV_toggle_menu_']//b[contains(text(),'Logout')]"
     invalid_login_msg_css =".firebaseui-textfield.mdl-textfield.mdl-js-textfield.mdl-textfield--floating-label.is-upgraded.is-dirty.firebaseui-textfield-invalid"
 
     # intializing driver
@@ -54,7 +55,8 @@ class Loginpage:
         self.driver.find_element(By.CSS_SELECTOR, self.button_signin_css).click()
 
     def clickLogout(self):
-        self.driver.find_element(By.CSS_SELECTOR, self.link_logout_css).click()
+        self.driver.find_element(By.XPATH, self.link_Account_xpath).click()
+        self.driver.find_element(By.XPATH, self.xpath_logout).click()
 
     def validate_invalid_login_msg(self):
          time.sleep(20)
