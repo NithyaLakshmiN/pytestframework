@@ -2168,3 +2168,35 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: https://
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev-reader.tcdcloud.com."
 1683179816982	Marionette	INFO	Stopped listening on port 63039
 Dynamically enable window occlusion 1
+1683179946830	geckodriver	INFO	Listening on 127.0.0.1:63189
+1683179949876	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63190" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileQSL6CU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683179950277	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683179950281	Marionette	INFO	Listening on port 63199
+Read port: 63199
+WebDriver BiDi listening on ws://127.0.0.1:63190
+1683179950417	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofileQSL6CU\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:63190/devtools/browser/20c175e7-f898-4ac3-9d38-24ec17302a43
+1683179952309	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1683179961938	Marionette	INFO	Stopped listening on port 63199
+Dynamically enable window occlusion 1
+[Parent 5028, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+ya\\AppData\\Local\\Temp\\rust_mozprofile6Msdg7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683179956204	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683179956208	Marionette	INFO	Listening on port 63236
+Read port: 63236
+WebDriver BiDi listening on ws://127.0.0.1:63213
+1683179956424	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nithya\\AppData\\Local\\Temp\\rust_mozprofile6Msdg7\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:63213/devtools/browser/a25d42ee-9f1a-48dc-b042-6dcbd4071e5f
+1683179958185	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1683179960303	Marionette	INFO	Stopped listening on port 63236
+Dynamically enable window occlusion 1
